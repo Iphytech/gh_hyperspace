@@ -1,0 +1,12 @@
+# Site
+name: Hyperspcae
+description: Hyperspace
+meta_description: "Hyperspace Website."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+paginate: 12
+baseurl:
+email: 'ifunanyaikemma@gmail.com'
+google_analytics: 'UA-46278016-1'
+disqus: 'ifunanyaikemma'
+sharethis: '<script async src="//platform-api.sharethis.com/js/sharethis.js#property=5c1287797b0b4500110a1d81&product="sticky-share-buttons"></script>'
